@@ -70,7 +70,7 @@ That's why the output is both tailored and consistent. The content flexes to the
 
 This is the pattern I bring to any business that produces the same high-stakes document over and over — proposals, quotes, reports, statements of work. Let AI do the writing that needs a brain. Let deterministic code do the assembly that needs to be perfect every time. Keep a human on the send. You get speed and consistency without betting a client relationship on an automated guess.
 
-**Snap2Flow** builds enterprise-grade automation and AI systems for small and mid-sized businesses. → [snap2flow.com](https://snap2flow.com) · [LinkedIn](https://www.linkedin.com/in/paularceneaux)
+**Snap2Flow** builds enterprise-grade automation and AI systems for small and mid-sized businesses. → [snap2flow.com](https://snap2flow.com) · [LinkedIn](https://www.linkedin.com/in/paularceneauxofficial/)
 
 ---
 
